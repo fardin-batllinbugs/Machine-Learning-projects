@@ -1,5 +1,6 @@
 # Machine-Learning-projects
 # 🎓 Student Placement Prediction
+I apply the same preprocessing steps used during training, including scaling, and then pass the transformed data to the trained model to generate predictions.
 
 ## 📌 Project Overview
 This project predicts whether a student will be placed based on:
